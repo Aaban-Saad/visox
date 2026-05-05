@@ -2,9 +2,21 @@
 
 VISOX is an educational, visual, and interactive Operating System simulator. It is designed to transform abstract OS concepts into real-time, animated client-side simulations. Built with Next.js, Tailwind CSS, and Framer Motion, it offers a modular dashboard to explore process behavior, CPU scheduling, memory allocation, and deadlocks.
 
+## 🌐 Live Demo
+
+**Play with the live simulator here:** [visox-sim.vercel.app](https://visox-sim.vercel.app)
+
 ## 🎥 Video Demo
 
 [![Video Title](https://img.youtube.com/vi/IrulR8KtKbw/0.jpg)](https://www.youtube.com/watch?v=IrulR8KtKbw)
+
+## 🛠 Technologies Used
+
+- **Framework:** Next.js (App Router)
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS & Shadcn UI
+- **Animations:** Motion (Framer Motion)
+- **Icons:** Lucide React
 
 ## ✨ Features
 
@@ -26,6 +38,8 @@ pnpm install
 ```
 
 Then, run the development server:
+
+
 
 ```bash
 npm run dev
